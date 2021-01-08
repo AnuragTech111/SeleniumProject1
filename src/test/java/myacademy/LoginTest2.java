@@ -23,6 +23,7 @@ public class LoginTest2 extends Base{
 		// driver.get("https://rahulshettyacademy.com/#/index");
 		driver.get(prop.getProperty("login_page_url"));
 		log.info("Login Page is displayed successfully");
+		log.info("Login Page is displayed successfully 2");
 	}
 
 	
