@@ -25,6 +25,7 @@ public class ValidateTitleTest2 extends Base{
 		// driver.get("https://rahulshettyacademy.com/#/index");
 		driver.get(prop.getProperty("home_page_url"));
 		log.info("Home Page is displayed successfully");
+		log.info("Home Page's objects are displayed successfully ");
 	}
 
 
